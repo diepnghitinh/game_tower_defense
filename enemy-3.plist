@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>npc_1303-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 20}</string>
+			<key>spriteSize</key>
+			<string>{68, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{571, 232}, {68, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-8.5, 16}</string>
+			<key>spriteSize</key>
+			<string>{51, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{456, 532}, {51, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {53, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-6.5, 17}</string>
+			<key>spriteSize</key>
+			<string>{53, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{55, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{382, 255}, {53, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {59, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{-5.5, 21}</string>
+			<key>spriteSize</key>
+			<string>{59, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{465, 326}, {59, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 17}</string>
+			<key>spriteSize</key>
+			<string>{68, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 687}, {68, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {62, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 19}</string>
+			<key>spriteSize</key>
+			<string>{62, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{401, 403}, {62, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{-7.5, 19}</string>
+			<key>spriteSize</key>
+			<string>{51, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{509, 532}, {51, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-7.5, 18}</string>
+			<key>spriteSize</key>
+			<string>{51, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{609, 374}, {51, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-6.5, 16}</string>
+			<key>spriteSize</key>
+			<string>{51, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{694, 142}, {51, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{-7.5, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{51, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{286, 693}, {51, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{-7.5, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{51, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 586}, {51, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1303-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-7.5, 18}</string>
+			<key>spriteSize</key>
+			<string>{51, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{641, 150}, {51, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 21.5}</string>
+			<key>spriteSize</key>
+			<string>{74, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{106, 0}, {74, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 13}</string>
+			<key>spriteSize</key>
+			<string>{74, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{78, 489}, {74, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {77, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{4.5, 15}</string>
+			<key>spriteSize</key>
+			<string>{77, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 442}, {77, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{3.5, 19}</string>
+			<key>spriteSize</key>
+			<string>{81, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{418, 89}, {81, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {72, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 19}</string>
+			<key>spriteSize</key>
+			<string>{72, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{615, 76}, {72, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{5.5, 18}</string>
+			<key>spriteSize</key>
+			<string>{81, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{382, 327}, {81, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{5.5, 17}</string>
+			<key>spriteSize</key>
+			<string>{81, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{87, 381}, {81, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 14}</string>
+			<key>spriteSize</key>
+			<string>{74, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{76, 559}, {74, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 55}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 10.5}</string>
+			<key>spriteSize</key>
+			<string>{74, 55}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 511}, {74, 55}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 53}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, 5.5}</string>
+			<key>spriteSize</key>
+			<string>{68, 53}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{562, 531}, {68, 53}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 5.5}</string>
+			<key>spriteSize</key>
+			<string>{66, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{72, 693}, {66, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1304-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {70, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 10}</string>
+			<key>spriteSize</key>
+			<string>{70, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{74, 625}, {70, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {42, 87}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 12.5}</string>
+			<key>spriteSize</key>
+			<string>{42, 87}</string>
+			<key>spriteSourceSize</key>
+			<string>{42, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{425, 0}, {42, 87}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {93, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{4.5, -1}</string>
+			<key>spriteSize</key>
+			<string>{93, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{93, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 241}, {93, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {89, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{4.5, 2}</string>
+			<key>spriteSize</key>
+			<string>{89, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{89, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{291, 259}, {89, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {72, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 7.5}</string>
+			<key>spriteSize</key>
+			<string>{72, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 0}, {72, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {47, 81}}</string>
+			<key>spriteOffset</key>
+			<string>{3.5, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{47, 81}</string>
+			<key>spriteSourceSize</key>
+			<string>{47, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{501, 83}, {47, 81}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {72, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 7}</string>
+			<key>spriteSize</key>
+			<string>{72, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{541, 0}, {72, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 2}</string>
+			<key>spriteSize</key>
+			<string>{96, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{106, 140}, {96, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -3.5}</string>
+			<key>spriteSize</key>
+			<string>{104, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 118}, {104, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -4.5}</string>
+			<key>spriteSize</key>
+			<string>{104, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 59}, {104, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{5.5, -3.5}</string>
+			<key>spriteSize</key>
+			<string>{91, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{93, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 307}, {91, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {85, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{4.5, -2.5}</string>
+			<key>spriteSize</key>
+			<string>{85, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{85, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 366}, {85, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1305-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -3}</string>
+			<key>spriteSize</key>
+			<string>{96, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 177}, {96, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {62, 91}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 14.5}</string>
+			<key>spriteSize</key>
+			<string>{62, 91}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 81}, {62, 91}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 81}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3.5}</string>
+			<key>spriteSize</key>
+			<string>{66, 81}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{431, 167}, {66, 81}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 4.5}</string>
+			<key>spriteSize</key>
+			<string>{66, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 85}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{363, 170}, {66, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 10.5}</string>
+			<key>spriteSize</key>
+			<string>{68, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{276, 81}, {68, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {59, 85}}</string>
+			<key>spriteOffset</key>
+			<string>{-1.5, 12.5}</string>
+			<key>spriteSize</key>
+			<string>{59, 85}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 85}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{302, 172}, {59, 85}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {70, 87}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{70, 87}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 89}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{346, 81}, {70, 87}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {70, 81}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 9.5}</string>
+			<key>spriteSize</key>
+			<string>{70, 81}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{469, 0}, {70, 81}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 3}</string>
+			<key>spriteSize</key>
+			<string>{74, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{437, 250}, {74, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 0}</string>
+			<key>spriteSize</key>
+			<string>{74, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 555}, {74, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{15, -2}</string>
+			<key>spriteSize</key>
+			<string>{68, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 627}, {68, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -3}</string>
+			<key>spriteSize</key>
+			<string>{66, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{541, 400}, {66, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1306-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 2}</string>
+			<key>spriteSize</key>
+			<string>{68, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{501, 166}, {68, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 18}</string>
+			<key>spriteSize</key>
+			<string>{68, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{571, 156}, {68, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{10.5, 13.5}</string>
+			<key>spriteSize</key>
+			<string>{51, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 0}, {51, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {53, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{10.5, 14.5}</string>
+			<key>spriteSize</key>
+			<string>{53, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{55, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{317, 0}, {53, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {59, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{6.5, 16.5}</string>
+			<key>spriteSize</key>
+			<string>{59, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 81}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{256, 0}, {59, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 15}</string>
+			<key>spriteSize</key>
+			<string>{68, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 582}, {68, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {62, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 17}</string>
+			<key>spriteSize</key>
+			<string>{62, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{550, 78}, {62, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{11.5, 17}</string>
+			<key>spriteSize</key>
+			<string>{51, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{513, 244}, {51, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 74}}</string>
+			<key>spriteOffset</key>
+			<string>{12.5, 15}</string>
+			<key>spriteSize</key>
+			<string>{51, 74}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{615, 0}, {51, 74}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{10.5, 12}</string>
+			<key>spriteSize</key>
+			<string>{51, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{668, 0}, {51, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{10.5, 8}</string>
+			<key>spriteSize</key>
+			<string>{51, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{689, 74}, {51, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {51, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{9.5, 8}</string>
+			<key>spriteSize</key>
+			<string>{51, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{577, 304}, {51, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1307-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {49, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{10.5, 14}</string>
+			<key>spriteSize</key>
+			<string>{49, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{51, 76}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{526, 322}, {49, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{74, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 516}, {74, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 14}</string>
+			<key>spriteSize</key>
+			<string>{74, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 516}, {74, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {76, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 13}</string>
+			<key>spriteSize</key>
+			<string>{76, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 489}, {76, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {79, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{1.5, 12}</string>
+			<key>spriteSize</key>
+			<string>{79, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{253, 379}, {79, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {72, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 9.5}</string>
+			<key>spriteSize</key>
+			<string>{72, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 625}, {72, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{1.5, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{81, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 381}, {81, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{1.5, 13}</string>
+			<key>spriteSize</key>
+			<string>{81, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 425}, {81, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 13}</string>
+			<key>spriteSize</key>
+			<string>{74, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{249, 445}, {74, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 14}</string>
+			<key>spriteSize</key>
+			<string>{74, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{465, 400}, {74, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 12.5}</string>
+			<key>spriteSize</key>
+			<string>{68, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{70, 752}, {68, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 11}</string>
+			<key>spriteSize</key>
+			<string>{66, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{742, 66}, {66, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1308-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {70, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 13}</string>
+			<key>spriteSize</key>
+			<string>{70, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 684}, {70, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {42, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 12.5}</string>
+			<key>spriteSize</key>
+			<string>{42, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{42, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 329}, {42, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {93, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{0.5, 9.5}</string>
+			<key>spriteSize</key>
+			<string>{93, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{93, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{196, 233}, {93, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {89, 57}}</string>
+			<key>spriteOffset</key>
+			<string> {1.5, 10.5}</string>
+			<key>spriteSize</key>
+			<string>{89, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{89, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{93, 322}, {89, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {72, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 9.5}</string>
+			<key>spriteSize</key>
+			<string>{72, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{382, 511}, {72, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {47, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{0.5, 12.5}</string>
+			<key>spriteSize</key>
+			<string>{47, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{47, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{611, 444}, {47, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {72, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{72, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 568}, {72, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{96, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{204, 174}, {96, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 10.5}</string>
+			<key>spriteSize</key>
+			<string>{104, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {104, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {104, 57}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 10.5}</string>
+			<key>spriteSize</key>
+			<string>{104, 57}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{106, 81}, {104, 57}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {93, 55}}</string>
+			<key>spriteOffset</key>
+			<string>{1.5, 11.5}</string>
+			<key>spriteSize</key>
+			<string>{93, 55}</string>
+			<key>spriteSourceSize</key>
+			<string>{93, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{95, 265}, {93, 55}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {85, 55}}</string>
+			<key>spriteOffset</key>
+			<string>{0.5, 10.5}</string>
+			<key>spriteSize</key>
+			<string>{85, 55}</string>
+			<key>spriteSourceSize</key>
+			<string>{85, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{184, 322}, {85, 55}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1309-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {96, 55}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 10.5}</string>
+			<key>spriteSize</key>
+			<string>{96, 55}</string>
+			<key>spriteSourceSize</key>
+			<string>{98, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{98, 208}, {96, 55}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {62, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 13.5}</string>
+			<key>spriteSize</key>
+			<string>{62, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{64, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{641, 286}, {62, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 16}</string>
+			<key>spriteSize</key>
+			<string>{66, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{641, 220}, {66, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 15}</string>
+			<key>spriteSize</key>
+			<string>{66, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{721, 0}, {66, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 14}</string>
+			<key>spriteSize</key>
+			<string>{68, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 752}, {68, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {59, 55}}</string>
+			<key>spriteOffset</key>
+			<string>{8.5, 12.5}</string>
+			<key>spriteSize</key>
+			<string>{59, 55}</string>
+			<key>spriteSourceSize</key>
+			<string>{59, 55}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{358, 640}, {59, 55}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{12, 13.5}</string>
+			<key>spriteSize</key>
+			<string>{68, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 687}, {68, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {70, 62}}</string>
+			<key>spriteOffset</key>
+			<string>{13, 15}</string>
+			<key>spriteSize</key>
+			<string>{70, 62}</string>
+			<key>spriteSourceSize</key>
+			<string>{72, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 623}, {70, 62}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{5, 16}</string>
+			<key>spriteSize</key>
+			<string>{74, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{465, 466}, {74, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {74, 64}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 17}</string>
+			<key>spriteSize</key>
+			<string>{74, 64}</string>
+			<key>spriteSourceSize</key>
+			<string>{76, 64}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{325, 445}, {74, 64}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 14.5}</string>
+			<key>spriteSize</key>
+			<string>{68, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{541, 470}, {68, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 59}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 14.5}</string>
+			<key>spriteSize</key>
+			<string>{66, 59}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 59}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{789, 0}, {66, 59}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>npc_1310-9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {68, 66}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 15}</string>
+			<key>spriteSize</key>
+			<string>{68, 66}</string>
+			<key>spriteSourceSize</key>
+			<string>{68, 68}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{380, 572}, {68, 66}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>enemy-4</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>enemy-4</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
